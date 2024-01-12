@@ -1,0 +1,22 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Zermat</name>
+    </assembly>
+    <members>
+        <member name="M:SYS_PR_Acceso.CS.Ayuda.SYS_CL_Extenciones.AgregarErrorAplicacion(Microsoft.AspNetCore.Http.HttpResponse,System.String)">
+            <summary>
+            Metodo que agrega un error a la aplicacion si no se tiene control sobre el
+            </summary>
+            <param name="response"></param>
+            <param name="message"></param>
+        </member>
+        <member name="M:SYS_PR_Acceso.CS.Controladores.SYS_CO_Acceso.Login(SYS_PR_Nucleo.Clases.DTO.SYS_DTO_Login)">
+            <summary>
+            Funcion encargada de generar login
+            </summary>
+            <param name="oLogin"></param>
+            <returns>Regresa el token de autenticacion</returns>
+        </member>
+    </members>
+</doc>

@@ -1,0 +1,16 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFrameworks>netcoreapp3.1</TargetFrameworks>
+    <Platforms>AnyCPU;x86</Platforms>
+    <Company></Company>
+    <Copyright></Copyright>
+    <Authors></Authors>
+    <Product></Product>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SYS_PR_ConexionBD\SYS_PR_ConexionBD.csproj" />
+  </ItemGroup>
+
+</Project>

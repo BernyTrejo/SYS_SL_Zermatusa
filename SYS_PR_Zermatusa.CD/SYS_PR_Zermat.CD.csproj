@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>Library</OutputType>
+    <TargetFramework>netcoreapp3.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\SYS_PR_ConexionBD\SYS_PR_ConexionBD.csproj" />
+    <ProjectReference Include="..\SYS_PR_Nucleo\SYS_PR_Nucleo.csproj" />
+  </ItemGroup>
+
+
+
+</Project>
